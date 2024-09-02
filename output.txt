@@ -1,0 +1,10 @@
+Total accesses: 0
+OK accesses: 0
+ERR accesses: 0
+Accesses per day:
+Response bytes per response code:
+Request types:
+Most accessed page: 
+Number of accesses: 0
+Top 10 IP addresses:
+Suspicious requests:
